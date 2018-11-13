@@ -1,3 +1,6 @@
 D:\tools\zookeeper\server1\zookeeper-3.4.13\bin\zkCli.cmd -server 127.0.0.1:2181
 
 D:\tools\zookeeper-3.4.13\bin\zkServer.cmd status
+
+
+11111
